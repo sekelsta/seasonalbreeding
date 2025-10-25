@@ -5,6 +5,7 @@
   "description" : "Animal breeding and growth consistent with seasons and year length.",
   "authors": ["sekelsta"],
   "version": "1.0.0",
+  "side": "Server",
   "dependencies": { 
 	"game": "1.21.4",
 	"survival": "",
