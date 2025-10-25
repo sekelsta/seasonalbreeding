@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "seasonalbreeding",
+  "name": "Seasonal Animal Breeding",
+  "description" : "Animal breeding and growth consistent with seasons and year length.",
+  "authors": ["sekelsta"],
+  "version": "1.0.0",
+  "dependencies": { 
+	"game": "1.21.4",
+	"survival": "",
+	"genelib": "2.1.2",
+  }
+}
