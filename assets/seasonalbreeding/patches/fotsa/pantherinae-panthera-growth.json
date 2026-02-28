@@ -10,7 +10,7 @@
   {
     "file": "pantherinae:entities/animal/mammal/pantherinae-panthera-baby.json",
     "op": "addmerge",
-    "path": "/behaviorConfigs/genelib.multiply",
+    "path": "/behaviorConfigs/grow",
     "value": {
 
       "monthsToGrowByType": {

@@ -10,7 +10,7 @@
   {
     "file": "capreolinae:entities/animal/mammal/hooved/capreolini-baby.json",
     "op": "addmerge",
-    "path": "/behaviorConfigs/genelib.multiply",
+    "path": "/behaviorConfigs/grow",
     "value": {
 
       "monthsToGrowByType": {

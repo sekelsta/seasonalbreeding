@@ -10,7 +10,7 @@
   {
     "file": "caninae:entities/land/vulpini-baby.json",
     "op": "addmerge",
-    "path": "/behaviorConfigs/genelib.multiply",
+    "path": "/behaviorConfigs/grow",
     "value": {
 
       "monthsToGrowByType": {

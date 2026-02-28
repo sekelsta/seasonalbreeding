@@ -10,7 +10,7 @@
   {
     "file": "machairodontinae:entities/animal/mammal/machairodontinae-baby.json",
     "op": "addmerge",
-    "path": "/behaviorConfigs/genelib.multiply",
+    "path": "/behaviorConfigs/grow",
     "value": {
       
       "monthsToGrowByType": {

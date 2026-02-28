@@ -10,7 +10,7 @@
   {
     "file": "bovinae:entities/animal/mammal/hooved/bovinae-baby.json",
     "op": "addmerge",
-    "path": "/behaviorConfigs/genelib.multiply",
+    "path": "/behaviorConfigs/grow",
     "value": {
 
       "monthsToGrowByType": {
